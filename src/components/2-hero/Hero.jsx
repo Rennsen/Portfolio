@@ -56,7 +56,7 @@ export default function Hero() {
           </a>
 
           <a href="https://www.paypal.me/Rayan-Derradji">
-            <span className="icon-paypal"></span>
+            <span className="icon icon-paypal"></span>
           </a>
         </div>
       </div>
