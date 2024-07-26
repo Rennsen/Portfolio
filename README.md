@@ -99,6 +99,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rennsen - [nr_derradji@esi.dz](mailto:nr_derradji@esi.dz)
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
-
 ---
