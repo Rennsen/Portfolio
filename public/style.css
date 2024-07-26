@@ -1,0 +1,481 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hbfcem');
+  src:  url('fonts/icomoon.eot?hbfcem#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hbfcem') format('truetype'),
+    url('fonts/icomoon.woff?hbfcem') format('woff'),
+    url('fonts/icomoon.svg?hbfcem#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail1:before {
+  content: "\e934";
+}
+.icon-reply:before {
+  content: "\e935";
+}
+.icon-send1:before {
+  content: "\e936";
+}
+.icon-link1:before {
+  content: "\e91d";
+}
+.icon-connect:before {
+  content: "\e91d";
+}
+.icon-join:before {
+  content: "\e91d";
+}
+.icon-relate:before {
+  content: "\e91d";
+}
+.icon-merge:before {
+  content: "\e91d";
+}
+.icon-game:before {
+  content: "\e900";
+}
+.icon-play:before {
+  content: "\e900";
+}
+.icon-code:before {
+  content: "\e900";
+}
+.icon-develop:before {
+  content: "\e900";
+}
+.icon-envelope:before {
+  content: "\e901";
+}
+.icon-cancel:before {
+  content: "\e902";
+}
+.icon-close:before {
+  content: "\e902";
+}
+.icon-dismiss:before {
+  content: "\e902";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-spinner11:before {
+  content: "\e984";
+}
+.icon-link5:before {
+  content: "\e9cb";
+}
+.icon-sun:before {
+  content: "\e9d4";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-loop2:before {
+  content: "\ea2e";
+}
+.icon-arrow-up-left2:before {
+  content: "\ea39";
+}
+.icon-arrow-up2:before {
+  content: "\ea3a";
+}
+.icon-arrow-up-right2:before {
+  content: "\ea3b";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-down-right2:before {
+  content: "\ea3d";
+}
+.icon-arrow-down2:before {
+  content: "\ea3e";
+}
+.icon-arrow-down-left2:before {
+  content: "\ea3f";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-circle-up:before {
+  content: "\ea41";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-circle-left:before {
+  content: "\ea44";
+}
+.icon-tab:before {
+  content: "\ea45";
+}
+.icon-embed:before {
+  content: "\ea7f";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-terminal:before {
+  content: "\ea81";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-amazon:before {
+  content: "\ea87";
+}
+.icon-google:before {
+  content: "\ea88";
+}
+.icon-google2:before {
+  content: "\ea89";
+}
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-spotify:before {
+  content: "\ea94";
+}
+.icon-twitter1:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
+.icon-twitch:before {
+  content: "\ea9f";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-tux:before {
+  content: "\eabd";
+}
+.icon-reddit1:before {
+  content: "\eac6";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+.icon-paypal:before {
+  content: "\ead8";
+}
+.icon-attachment:before {
+  content: "\e91c";
+}
+.icon-chain:before {
+  content: "\e91c";
+}
+.icon-link:before {
+  content: "\e91c";
+}
+.icon-gamepad:before {
+  content: "\e903";
+}
+.icon-joystick:before {
+  content: "\e903";
+}
+.icon-mail:before {
+  content: "\e904";
+}
+.icon-sun1:before {
+  content: "\e905";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-spinner11:before {
+  content: "\e984";
+}
+.icon-link5:before {
+  content: "\e9cb";
+}
+.icon-sun:before {
+  content: "\e9d4";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-loop2:before {
+  content: "\ea2e";
+}
+.icon-arrow-up-left2:before {
+  content: "\ea39";
+}
+.icon-arrow-up2:before {
+  content: "\ea3a";
+}
+.icon-arrow-up-right2:before {
+  content: "\ea3b";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-down-right2:before {
+  content: "\ea3d";
+}
+.icon-arrow-down2:before {
+  content: "\ea3e";
+}
+.icon-arrow-down-left2:before {
+  content: "\ea3f";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-circle-up:before {
+  content: "\ea41";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-circle-left:before {
+  content: "\ea44";
+}
+.icon-tab:before {
+  content: "\ea45";
+}
+.icon-embed:before {
+  content: "\ea7f";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-terminal:before {
+  content: "\ea81";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-amazon:before {
+  content: "\ea87";
+}
+.icon-google:before {
+  content: "\ea88";
+}
+.icon-google2:before {
+  content: "\ea89";
+}
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-spotify:before {
+  content: "\ea94";
+}
+.icon-twitter1:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
+.icon-twitch:before {
+  content: "\ea9f";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-tux:before {
+  content: "\eabd";
+}
+.icon-reddit1:before {
+  content: "\eac6";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+.icon-paypal:before {
+  content: "\ead8";
+}
+.icon-link2:before {
+  content: "\e91e";
+}
+.icon-game-controller:before {
+  content: "\e906";
+}
+.icon-arrow-right:before {
+  content: "\e923";
+}
+.icon-arrow-left:before {
+  content: "\e924";
+}
+.icon-arrow-down:before {
+  content: "\e925";
+}
+.icon-arrow-up:before {
+  content: "\e926";
+}
+.icon-clear:before {
+  content: "\e91b";
+}
+.icon-menu:before {
+  content: "\e907";
+}
+.icon-send:before {
+  content: "\e932";
+}
+.icon-email:before {
+  content: "\e933";
+}
+.icon-arrow_forward_ios:before {
+  content: "\e927";
+}
+.icon-arrow_back_ios:before {
+  content: "\e928";
+}
+.icon-subdirectory_arrow_right:before {
+  content: "\e929";
+}
+.icon-subdirectory_arrow_left:before {
+  content: "\e92a";
+}
+.icon-keyboard_arrow_up:before {
+  content: "\e92b";
+}
+.icon-keyboard_arrow_right:before {
+  content: "\e92c";
+}
+.icon-keyboard_arrow_left:before {
+  content: "\e92d";
+}
+.icon-keyboard_arrow_down:before {
+  content: "\e92e";
+}
+.icon-play_arrow:before {
+  content: "\e92f";
+}
+.icon-link3:before {
+  content: "\e91f";
+}
+.icon-insert_link:before {
+  content: "\e91f";
+}
+.icon-videogame_asset:before {
+  content: "\e908";
+}
+.icon-games:before {
+  content: "\e909";
+}
+.icon-gamepad2:before {
+  content: "\e909";
+}
+.icon-verified_user:before {
+  content: "\e90a";
+}
+.icon-verified:before {
+  content: "\e90b";
+}
+.icon-link-2:before {
+  content: "\e920";
+}
+.icon-link4:before {
+  content: "\e921";
+}
+.icon-sun2:before {
+  content: "\e90c";
+}
+.icon-youtube1:before {
+  content: "\e90d";
+  color: #f00;
+}
+.icon-spotify1:before {
+  content: "\e90e";
+  color: #1ed760;
+}
+.icon-gmail:before {
+  content: "\e90f";
+  color: #d14836;
+}
+.icon-twitch1:before {
+  content: "\e910";
+  color: #6441a4;
+}
+.icon-x:before {
+  content: "\e911";
+}
+.icon-twitter:before {
+  content: "\e911";
+}
+.icon-paper-plane:before {
+  content: "\e930";
+}
+.icon-envelope1:before {
+  content: "\e931";
+}
+.icon-external-link:before {
+  content: "\e922";
+}
+.icon-laptop:before {
+  content: "\e91a";
+}
+.icon-gamepad1:before {
+  content: "\e912";
+}
+.icon-youtube-play:before {
+  content: "\e913";
+}
+.icon-inbox:before {
+  content: "\e914";
+}
+.icon-twitch2:before {
+  content: "\e915";
+}
+.icon-reddit-alien:before {
+  content: "\e916";
+}
+.icon-reddit-square:before {
+  content: "\e917";
+}
+.icon-reddit:before {
+  content: "\e918";
+}
+.icon-moon-o:before {
+  content: "\e919";
+}
